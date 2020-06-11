@@ -19,8 +19,8 @@ Inorder to champion accesability in the HTML and CSS code I was given by Horiseo
 ## Code Snippet 
 
 - HTML 
- <p class="ridge">As the search ranking for your business increases, 
-your advertising costs decrease, and you no longer need to advertise your page.</p>
+ < p class="ridge">As the search ranking for your business increases, 
+your advertising costs decrease, and you no longer need to advertise your page.< /p >
 
 - CSS 
 /*centered text*/
@@ -66,7 +66,7 @@ alt="screenshot-after-I-changed-the-text-color-and-added-a-border"
 >
 
 ## Authors
-    Ayla Dillis in collaboration with Horiseon Social Solution Services, Inc. 
+Ayla Dillis (in collaboration with Horiseon Social Solution Services, Inc.) 
 * [Linkedin](https://www.linkedin.com/in/ayladillis/)
 * [GitHub] (https://github.com/ayladillis)
 * [Portfolio] (Coming soon)
