@@ -88,17 +88,17 @@ p {
 
 .benefit-lead {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: black;
 }
 
 .benefit-brand {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: black;
 }
 
 .benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: black;
 }
 
 .benefit-lead h3 {
@@ -209,4 +209,11 @@ div.benefit-brand {
 /*centered text*/
 div.benefit-cost {
     text-align: center;
+}
+/*added double border around footer*/
+p.double {
+    border-style: double;
+}
+p.ridge {
+    border-style: ridge;
 }
