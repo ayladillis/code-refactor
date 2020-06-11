@@ -1,6 +1,6 @@
 # Code Refactor
 
-    The purpose of the following will be to improve on the the current codebase, making it more accessable for users 
+The purpose of the following will be to improve on the the current codebase, making it more accessable for users 
 with disabilites or socio-economic restrictions, as well as organizing the overall semantic strucute of the html 
 and css. All edits made have been noted with in-code citations.
 
