@@ -214,6 +214,13 @@ div.benefit-cost {
 p.double {
     border-style: double;
 }
+/*added a ridge border around the text*/
 p.ridge {
     border-style: ridge;
+}
+/*Fixing the sites window size*/
+.Container {
+    width: 90%;
+    min-width: 500px;
+    margin: auto;
 }

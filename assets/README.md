@@ -6,7 +6,7 @@ and css. All edits made have been noted with in-code citations.
 
 ## Method
 
-Inorder to champion accesability in the HTML and CSS code I was created by Horiseon Social Solution Services, Inc I will be implementing several tactics. First adding alt tags to all images so those with visual impairments or those without access to proper internet services can still gleen information from the cite. Next I will be centering the text under 'Lead Generation', 'Brand Awareness' and 'Cost Management' as well as changing the text color to black and outlining it to make it easier to read. 
+Inorder to champion accesability in the HTML and CSS code I was given by Horiseon Social Solution Services, Inc I will be implementing several tactics. First adding alt tags to all images so those with visual impairments or those without access to proper internet services can still gleen information from the site. Next I will be centering the text under 'Lead Generation', 'Brand Awareness' and 'Cost Management' as well as changing the text color to black and outlining it to make it easier to read. Lastly I will be fixing the webpage size to fit the window width. 
 
 ## Tools Used
 
@@ -14,11 +14,41 @@ Inorder to champion accesability in the HTML and CSS code I was created by Horis
 * CSS
 * GitHub
 * VS Code 
+* Google
 
 ## Code Snippet 
 
+- HTML 
  <p class="ridge">As the search ranking for your business increases, 
 your advertising costs decrease, and you no longer need to advertise your page.</p>
+
+- CSS 
+/*centered text*/
+div.benefit-lead {
+    text-align: center;
+}
+/*centered text*/
+div.benefit-brand {
+    text-align: center;
+}
+/*centered text*/
+div.benefit-cost {
+    text-align: center;
+}
+/*added double border around footer*/
+p.double {
+    border-style: double;
+}
+/*added a ridge border around the text*/
+p.ridge {
+    border-style: ridge;
+}
+/*Fixing the sites window size*/
+.Container {
+    width: 90%;
+    min-width: 500px;
+    margin: auto;
+}
 
 ## Screenshots
 <img
