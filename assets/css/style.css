@@ -198,3 +198,15 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*centered text*/
+div.benefit-lead {
+    text-align: center;
+}
+/*centered text*/
+div.benefit-brand {
+    text-align: center;
+}
+/*centered text*/
+div.benefit-cost {
+    text-align: center;
+}
